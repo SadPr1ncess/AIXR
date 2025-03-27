@@ -22,7 +22,7 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/1.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/1.jpg",
         "generation_task_id": "25030700391164395200918064",
         "generation_task_status": "SUCCEEDED",
         "generation_params": {
@@ -30,7 +30,7 @@
           "prompt": "小男孩，在学校受到欺负，被同学拿走了作业, 3D卡通风格"
         }
       },
-      "audio": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/1.MP3"
+      "audio": "https://sadpr1ncess.github.io/AIXR/1.MP3"
     },
     {
       "id": "X9cBOKxC",
@@ -50,7 +50,7 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/2.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/2.jpg",
         "generation_task_id": "2503062205289632765920008",
         "generation_task_status": "SUCCEEDED",
         "generation_params": {
@@ -58,7 +58,7 @@
           "prompt": "男孩，躺在床上睡不着"
         }
       },
-      "audio": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/2.MP3"
+      "audio": "https://sadpr1ncess.github.io/AIXR/2.MP3"
     },
     {
       "id": "_RiS_5wf",
@@ -78,7 +78,7 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/3.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/3.jpg",
         "generation_task_id": "2503220044015335420058836",
         "generation_task_status": "SUCCEEDED",
         "generation_params": {
@@ -87,7 +87,7 @@
         },
         "generation_vendor": "HiDream"
       },
-      "audio": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/3.MP3"
+      "audio": "https://sadpr1ncess.github.io/AIXR/3.MP3"
     },
     {
       "id": "JGRckuRE",
@@ -107,14 +107,14 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/4.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/4.jpg",
         "generation_task_id": "",
         "generation_task_status": "INITIAL",
         "generation_params": {
           "prompt": ""
         }
       },
-      "audio": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/4.MP3"
+      "audio": "https://sadpr1ncess.github.io/AIXR/4.MP3"
     },
     {
       "id": "H2HPNIk7",
@@ -134,14 +134,14 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/5.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/5.jpg",
         "generation_task_id": "",
         "generation_task_status": "INITIAL",
         "generation_params": {
           "prompt": ""
         }
       },
-      "audio": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/5.MP3"
+      "audio": "https://sadpr1ncess.github.io/AIXR/5.MP3"
     },
     {
       "id": "fw7ykiGh",
@@ -161,14 +161,14 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/6.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/6.jpg",
         "generation_task_id": "",
         "generation_task_status": "INITIAL",
         "generation_params": {
           "prompt": ""
         }
       },
-      "audio": "https://raw.githubusercontent.com/SadPr1ncess/AIXR/main/6.MP3"
+      "audio": "https://sadpr1ncess.github.io/AIXR/6.MP3"
     }
   ],
   "created_at": {
