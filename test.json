@@ -22,7 +22,7 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://sadpr1ncess.github.io/AIXR/1.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/test1.jpg",
         "generation_task_id": "25030700391164395200918064",
         "generation_task_status": "SUCCEEDED",
         "generation_params": {
@@ -50,7 +50,7 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://sadpr1ncess.github.io/AIXR/2.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/test1.jpg",
         "generation_task_id": "2503062205289632765920008",
         "generation_task_status": "SUCCEEDED",
         "generation_params": {
@@ -78,7 +78,7 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://sadpr1ncess.github.io/AIXR/3.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/test1.jpg",
         "generation_task_id": "2503220044015335420058836",
         "generation_task_status": "SUCCEEDED",
         "generation_params": {
@@ -107,7 +107,7 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://sadpr1ncess.github.io/AIXR/4.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/test1.jpg",
         "generation_task_id": "",
         "generation_task_status": "INITIAL",
         "generation_params": {
@@ -134,7 +134,7 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://sadpr1ncess.github.io/AIXR/5.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/test1.jpg",
         "generation_task_id": "",
         "generation_task_status": "INITIAL",
         "generation_params": {
@@ -161,7 +161,7 @@
         "padding": 0
       },
       "image_props": {
-        "source": "https://sadpr1ncess.github.io/AIXR/6.jpg",
+        "source": "https://sadpr1ncess.github.io/AIXR/test1.jpg",
         "generation_task_id": "",
         "generation_task_status": "INITIAL",
         "generation_params": {
