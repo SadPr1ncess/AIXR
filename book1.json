@@ -1,0 +1,114 @@
+{
+    "picturebookId": "680a85a5b2b5b1158694ca58",
+    "cover": {
+        "source": "https://static.p.xixiyunjing.com/picturebooks/680a85a5b2b5b1158694ca58/cover/01.jpg"
+    },
+    "chapters": [
+        {
+            "_id": "81b06d8f",
+            "title": "科学课上的启蒙",
+            "layoutProps": {
+                "layoutType": "IMAGE_LEFT",
+                "backgroundColor": "#525859"
+            },
+            "textProps": {
+                "content": "小宇坐在明亮的教室里，眼睛亮晶晶地盯着屏幕上老师展示的“天问一号”探测器图片。老师正生动地讲述着中国火星探测任务的壮举，从火箭发射到探测器在火星着陆，每一个细节都深深吸引着小宇。他仿佛看到了那遥远的红色星球，听到了宇宙深处的呼唤。从这一刻起，一颗探索太空的种子在他心中悄然种下。",
+                "fontSize": 24,
+                "fontFamily": "PingFang SC",
+                "color": "#ffffff",
+                "lineHeight": 1.5,
+                "alignment": "left",
+                "verticalAlignment": "middle",
+                "padding": 0
+            },
+            "imageProps": {
+                "source": "https://static.p.xixiyunjing.com/picturebooks/680a85a5b2b5b1158694ca58/81b06d8f/images/6694cf3f-ba1e-43c0-a94f-30e7aed327d8.png"
+            }
+        },
+        {
+            "_id": "fd1d973d",
+            "title": "星空下的梦想",
+            "layoutProps": {
+                "layoutType": "IMAGE_RIGHT",
+                "backgroundColor": "#525859"
+            },
+            "textProps": {
+                "content": "夜晚，小宇常常独自一人仰望星空，想象着自己穿上洁白的宇航服，像老师课上讲的英雄一样，在星际间遨游。他梦想着驾驶飞船，去触摸那些闪烁的星星，去探索未知的行星，去解开宇宙的奥秘。成为一名宇航员，飞向浩瀚的宇宙，成了他心中最炽热的梦想。",
+                "fontSize": 24,
+                "fontFamily": "PingFang SC",
+                "color": "#ffffff",
+                "lineHeight": 1.5,
+                "alignment": "left",
+                "verticalAlignment": "middle",
+                "padding": 0
+            },
+            "imageProps": {
+                "source": "https://static.p.xixiyunjing.com/picturebooks/680a85a5b2b5b1158694ca58/fd1d973d/images/3ec3adde-9dde-4bdf-9050-52f26a41f400.jpg"
+            }
+        },
+        {
+            "_id": "765a2ee6",
+            "title": "逐梦路上的挑战",
+            "layoutProps": {
+                "layoutType": "IMAGE_LEFT",
+                "backgroundColor": "#525859"
+            },
+            "textProps": {
+                "content": "为了实现梦想，小宇付出了比别人更多的努力。他刻苦学习科学知识，锻炼强健的体魄。在模拟太空训练中，他经历了失重、超重和各种极端环境的考验。有一次，在模拟太空行走时，设备突然出现故障，他沉着冷静，按照预案成功排除了险情。这次经历虽然惊险，但更加坚定了他勇闯太空的决心。",
+                "fontSize": 24,
+                "fontFamily": "PingFang SC",
+                "color": "#ffffff",
+                "lineHeight": 1.5,
+                "alignment": "left",
+                "verticalAlignment": "middle",
+                "padding": 0
+            },
+            "imageProps": {
+                "source": "https://static.p.xixiyunjing.com/picturebooks/680a85a5b2b5b1158694ca58/765a2ee6/images/6ac4b1a4-08dd-4a5b-98c2-5cee0ca50523.png"
+            }
+        },
+        {
+            "_id": "f4b1d49f",
+            "title": "遨游太空的旅程",
+            "layoutProps": {
+                "layoutType": "IMAGE_RIGHT",
+                "backgroundColor": "#525859"
+            },
+            "textProps": {
+                "content": "经过层层选拔和艰苦训练，小宇终于实现了儿时的梦想，成为了一名真正的宇航员。他乘坐着先进的飞船，飞向了梦寐以求的太空。从舷窗望出去，美丽的蓝色地球就在眼前，浩瀚的星河触手可及。他在空间站里进行科学实验，进行太空行走，每一步都小心翼翼，充满了对这份工作的敬畏和热爱",
+                "fontSize": 24,
+                "fontFamily": "PingFang SC",
+                "color": "#ffffff",
+                "lineHeight": 1.5,
+                "alignment": "left",
+                "verticalAlignment": "middle",
+                "padding": 0
+            },
+            "imageProps": {
+                "source": "https://static.p.xixiyunjing.com/picturebooks/680a85a5b2b5b1158694ca58/f4b1d49f/images/96c0d099-c155-4443-a0c1-5687d8668e54.png"
+            }
+        },
+        {
+            "_id": "cf9967a0",
+            "title": "出色的太空使者",
+            "layoutProps": {
+                "layoutType": "IMAGE_LEFT",
+                "backgroundColor": "#525859"
+            },
+            "textProps": {
+                "content": "凭借着扎实的知识、过硬的技能和沉稳的心态，小宇出色地完成了一次又一次的太空任务。他不仅探索了宇宙的奥秘，也为人类的航天事业做出了贡献。他成为了孩子们心中的榜样，也成为了中国航天史上闪耀的名字。小宇知道，他的征途是星辰大海，探索永无止境，他将继续带着最初的梦想，飞向更遥远的深空。",
+                "fontSize": 24,
+                "fontFamily": "PingFang SC",
+                "color": "#ffffff",
+                "lineHeight": 1.5,
+                "alignment": "left",
+                "verticalAlignment": "middle",
+                "padding": 0
+            },
+            "imageProps": {
+                "source": "https://static.p.xixiyunjing.com/picturebooks/680a85a5b2b5b1158694ca58/cf9967a0/images/c03f2141-0d6a-468a-abb2-8e95e80057f0.png"
+            }
+        }
+    ],
+    "globalProps": {}
+}

@@ -1,0 +1,114 @@
+{
+    "picturebookId": "680a870db2b5b1158694ca5a",
+    "cover": {
+        "source": "https://static.p.xixiyunjing.com/picturebooks/680a870db2b5b1158694ca5a/cover/7ef13aed-a68d-49db-b4e4-e4d6191bb4e0.jpg"
+    },
+    "chapters": [
+        {
+            "_id": "c46b03e3",
+            "title": "莉莉的时光旅行",
+            "layoutProps": {
+                "layoutType": "IMAGE_RIGHT",
+                "backgroundColor": "#525859"
+            },
+            "textProps": {
+                "content": "欢迎来到莉莉的时光之旅！准备好出发了吗？\"叮咚——！\"莉莉的时光怀表突然发出清脆的响声，七彩的光芒从表盘里旋转着涌出来。\"时光之旅要开始啦！\"莉莉兴奋地原地跳了起来，她背上的彩虹小背包也跟着欢快地晃动。\"第一站会是哪里呢？\"莉莉踮起脚尖，轻轻碰了碰悬浮在空中的全息地球仪。突然，怀表上的指针飞快旋转起来，最后\"咔嗒\"一声停在了侏罗纪时代的标志上。\"哇！是恐龙时代！\"莉莉惊喜地叫出声，还没等她说完，一道绚丽的时光隧道就在她脚下展开，带着她和小仓鼠一起消失在闪耀的星光中。",
+                "fontSize": 24,
+                "fontFamily": "PingFang SC",
+                "color": "#ffffff",
+                "lineHeight": 1.5,
+                "alignment": "left",
+                "verticalAlignment": "middle",
+                "padding": 0
+            },
+            "imageProps": {
+                "source": "https://static.p.xixiyunjing.com/picturebooks/680a870db2b5b1158694ca5a/chapers/c46b03e3/933baf37-35a1-4884-91b6-79ea040e8cb4.jpg"
+            }
+        },
+        {
+            "_id": "7e4a530c",
+            "title": "第一章",
+            "layoutProps": {
+                "layoutType": "IMAGE_RIGHT",
+                "backgroundColor": "#525859"
+            },
+            "textProps": {
+                "content": "莉莉睁大眼睛，不可思议地望着眼前这片史前世界。高耸的蕨类植物在她身边摇曳，远处传来低沉的恐龙鸣叫声。突然，一个巨大的阴影笼罩了她——是一只温顺的腕龙！它缓缓低下头，用好奇的大眼睛打量着这个来自未来的小小访客。\"你好啊，大家伙！\"莉莉鼓起勇气，伸出小手。腕龙轻轻嗅了嗅她的手掌，发出友好的低鸣。很快，莉莉就发现这些看似庞大的生物其实非常温柔。她开心地帮腕龙采摘树顶最嫩的枝叶，腕龙则用长长的脖子为她遮挡炽热的阳光。\"太神奇了！\"莉莉咯咯笑着，和几只小腕龙玩起了捉迷藏。她在它们的腿间穿梭，恐龙们则配合地假装找不到她。夕阳西下时，最大的那只腕龙甚至小心翼翼地让莉莉爬到它的背上，带着她漫步在史前丛林中。",
+                "fontSize": 24,
+                "fontFamily": "PingFang SC",
+                "color": "#ffffff",
+                "lineHeight": 1.5,
+                "alignment": "left",
+                "verticalAlignment": "middle",
+                "padding": 0
+            },
+            "imageProps": {
+                "source": "https://static.p.xixiyunjing.com/picturebooks/680a870db2b5b1158694ca5a/chapers/7e4a530c/32b62171-21b7-420f-943a-e785398c6560.jpg"
+            }
+        },
+        {
+            "_id": "8218ffd9",
+            "title": "第二章",
+            "layoutProps": {
+                "layoutType": "IMAGE_RIGHT",
+                "backgroundColor": "#525859"
+            },
+            "textProps": {
+                "content": "接下来，莉莉到了古埃及。金色的阳光洒在尼罗河畔，莉莉被眼前热闹的景象惊呆了！街道两旁挤满了欢呼的人群，祭司们身着白袍摇动着圣铃，舞者们随着鼓点扭动腰肢。空气中弥漫着没药和莲花的芬芳，华丽的游行队伍缓缓前行——法老的黄金战车、披着彩衣的圣牛，还有抬着神像的壮汉们。\"太棒啦！\"莉莉兴奋地拍着手，一个戴着青金石项链的埃及小姑娘拉起她的手，教她跳起欢快的舞步。周围的埃及人都对这个穿着奇怪却活泼可爱的小女孩报以善意的微笑。当巨大的阿蒙神像经过时，莉莉学着大家的样子，将手中的莲花瓣抛向空中，在漫天飞舞的花瓣中发出快乐的欢呼。远处金字塔在夕阳下闪耀，仿佛也在为这场庆典喝彩。",
+                "fontSize": 24,
+                "fontFamily": "PingFang SC",
+                "color": "#ffffff",
+                "lineHeight": 1.5,
+                "alignment": "left",
+                "verticalAlignment": "middle",
+                "padding": 0
+            },
+            "imageProps": {
+                "source": "https://static.p.xixiyunjing.com/picturebooks/680a870db2b5b1158694ca5a/chapers/8218ffd9/c9cd32bc-2bbc-4694-a01f-132f8b095c10.jpg"
+            }
+        },
+        {
+            "_id": "6ea71b7f",
+            "title": "第三章",
+            "layoutProps": {
+                "layoutType": "IMAGE_RIGHT",
+                "backgroundColor": "#525859"
+            },
+            "textProps": {
+                "content": "现在，莉莉的时空穿梭器突然停在了3000年的高空！她惊呼一声，连眼前的景象让她屏住了呼吸——整座城市如同璀璨的水晶森林，透明的空中走廊在摩天大楼间蜿蜒穿梭，反重力车辆像流星般划过天际。\"欢迎来到新纪元2189年！\"一个全息导游机器人突然出现在她身边。莉莉好奇地伸手触碰，手指却穿过了蓝色的光影。她咯咯笑起来，整座城市沐浴在霓虹与星光之中。\"这简直比梦里见到的还要神奇！\"莉莉张开双臂，让高空的风扬起她的裙摆，感觉自己就像一只自由的小鸟，翱翔在这座梦幻的未来都市之上。",
+                "fontSize": 24,
+                "fontFamily": "PingFang SC",
+                "color": "#ffffff",
+                "lineHeight": 1.5,
+                "alignment": "left",
+                "verticalAlignment": "middle",
+                "padding": 0
+            },
+            "imageProps": {
+                "source": "https://static.p.xixiyunjing.com/picturebooks/680a870db2b5b1158694ca5a/chapers/6ea71b7f/7073d938-05d7-417b-8e78-2680e5cd2e4c.jpg"
+            }
+        },
+        {
+            "_id": "53de3178",
+            "title": "第四章",
+            "layoutProps": {
+                "layoutType": "IMAGE_RIGHT",
+                "backgroundColor": "#525859"
+            },
+            "textProps": {
+                "content": "回到家，莉莉趴在洒满星光的书桌前，小脸因为兴奋而红扑扑的。她握着最心爱的彩虹笔，在日记本上飞快地写着：\"今天，我遇见了温柔的腕龙朋友，参加了埃及最热闹的庆典，还在未来城市的高空看到了会发光的鲸鱼！\"写到这里，她停下笔，从抽屉里掏出珍藏的纪念品：一片腕龙啃过的蕨叶、一朵埃及庆典上的干莲花瓣，还有一张未来城市的全息照片。窗台上的小仓鼠好奇地凑过来，莉莉轻轻点了点它粉色的鼻尖：\"下次冒险，我一定带你一起去！\"合上日记本时，封面上的星星贴纸在夕阳下闪闪发亮，就像莉莉眼中还未讲完的冒险故事。",
+                "fontSize": 24,
+                "fontFamily": "PingFang SC",
+                "color": "#ffffff",
+                "lineHeight": 1.5,
+                "alignment": "left",
+                "verticalAlignment": "middle",
+                "padding": 0
+            },
+            "imageProps": {
+                "source": "https://static.p.xixiyunjing.com/picturebooks/680a870db2b5b1158694ca5a/chapers/53de3178/29275887-c748-4d2a-86c7-3cdac78a68bf.jpg"
+            }
+        }
+    ],
+    "globalProps": {}
+}
