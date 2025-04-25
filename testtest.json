@@ -1,17 +1,15 @@
 {
     "images": [
       {
-        "image_id": "3db3b2145ddd9c65b99e31695190ca9",
-        "image_download":"https://sadpr1ncess.github.io/AIXR/3db3b2145ddd9c65b99e31695190ca9.jpg",
+        "image_id": "book1",
         "download_links": [
-          "https://sadpr1ncess.github.io/AIXR/test.json"
+          "https://static.p.xixiyunjing.com/ar/book1.json"
         ]
       },
       {
-        "image_id": "7",
-        "image_download":"https://sadpr1ncess.github.io/AIXR/7.jpg",
+        "image_id": "book2",
         "download_links": [
-            "https://sadpr1ncess.github.io/AIXR/test2.json"
+            "https://static.p.xixiyunjing.com/ar/book2.json"
         ]
       }
     ]
