@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content='width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes'>
-    <title>Unity WebGL Player | wb</title>
+    <title>Unity WebGL Player | AIPictureBook</title>
     <link rel="stylesheet" href="TemplateData/style.css">
 
     <style>
@@ -37,9 +37,8 @@
     <video id="webcam-video" muted autoplay playsinline style="width:1px;position:absolute"></video>
     <canvas id="video-canvas" style="width:100%; height:100%; object-fit:cover; position:absolute"></canvas>
     <div id="startARDiv" class="ctaDiv">
-        <select id="chooseCamSel" style="display: none;" onchange="SelectCam()"></select>
-        <p style="text-align: center; width:60vw">This augmented reality experience requires access to your device's camera and motion sensors</p>
-        <button id="startARButton" style="display:none" onclick="StartAR()">ALLOW ACCESS</button>
+        <p style="text-align: center; width:60vw">这种增强现实体验需要使用您设备的摄像头和运动传感器。</p>
+        <button id="startARButton" style="display:none" onclick="StartAR()"> 允许使用</button>
     </div>
     <div id="screenshotDiv" style="display: none;" class="ctaDiv">
         <div style="position:relative; background-color:white; padding:10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.25);">
@@ -74,8 +73,8 @@
                 console.log("World tracker initialized!");   
             }
             catch (error) {
-                console.error("Failed to initialize world tracker. Are you missing opencv.js?", error);
-                ShowError("Failed to initialize the World Tracker.\n" + error);
+                console.error("初始化世界跟踪器失败", error);
+                ShowError("初始化世界跟踪器失败.\n" + error);
                 return;
             }
 
@@ -101,7 +100,7 @@
                     codeUrl: "Build/bl.wasm",
                     streamingAssetsUrl: "StreamingAssets",
                     companyName: "DefaultCompany",
-                    productName: "wb",
+                    productName: "AIPictureBook",
                     productVersion: "0.1",
                     //webglContextAttributes: { "preserveDrawingBuffer": true },
                     // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
@@ -145,8 +144,8 @@
             }
             catch (err) {
                 //user denied camera permission - show error panel
-                console.error("getUserMedia error - " , err);
-                ShowError("Failed to start the experience. Camera permission was denied");
+                console.error("获取用户媒体权限错误 - " , err);
+                ShowError("无法启动该体验。摄像头权限被拒绝。");
                 window.requestingForCameraPermission = false;
             }           
         }
@@ -172,12 +171,12 @@
                     window.unityInstance.SendMessage('ARCamera', 'OnStartWebcamSuccess');
                 }
                 catch(err){
-                    console.error("Webcam failed to start - ", err);
+                    console.error("摄像头启动失败 - ", err);
                     window.unityInstance.SendMessage('ARCamera', 'OnStartWebcamFail');
                 }   
             }
             else{
-                console.error("Webcam failed to start - permission not yet granted");
+                console.error("网络摄像头无法启动——权限尚未授予");
                 window.unityInstance.SendMessage('ARCamera', 'OnStartWebcamFail');
             }  
         }
@@ -264,8 +263,8 @@
                 console.log("Motion sensors started");
             })
             .catch(error=>{
-                console.error("Failed to start motion sensors - " + error);
-                ShowError("Failed to start the experience. " + error);
+                console.error("运动传感器启动失败 -" + error);
+                ShowError("启动体验失败。处理步骤. " + error);
 
             });
         }
@@ -276,7 +275,7 @@
                 console.log("GPS started", pos);
             })
             .catch(error=>{
-                console.error("Failed to start GPS - " + error);
+                console.error("无法启动 GPS - " + error);
                 //ShowError("Failed to start GPS " + error);
             });
         }
